@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RIZOJRvVtWn7OwubRQCuktm1CS94e05lsTPojXKzA3BSi6yhM1Zjq6tMMuEk+zhhmWaidgX+91LLjKsaxxp83w==",
+  "dgSpecHash": "Va7LjqwZhoauGfMqAE8Shd8LZDiWpdt2sitkxmA3gsSAC19YwOOmkMkhtyX1xrrY9Qtd/scp4m/7SudbZJuP9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeri\\source\\repos\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
+  "projectFilePath": "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

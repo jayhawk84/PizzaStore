@@ -8745,11 +8745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeri\\source\\repos\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
+      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
       "projectName": "PizzzzaStore",
-      "projectPath": "C:\\Users\\leeri\\source\\repos\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
+      "projectPath": "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
       "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeri\\source\\repos\\PizzzzaStore\\PizzzzaStore\\obj\\",
+      "outputPath": "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
