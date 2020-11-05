@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj": {}
+    "C:\\Users\\mobyf_000\\Saved Games\\Jason Master\\Github\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj": {
+    "C:\\Users\\mobyf_000\\Saved Games\\Jason Master\\Github\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
+        "projectUniqueName": "C:\\Users\\mobyf_000\\Saved Games\\Jason Master\\Github\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
         "projectName": "PizzzzaStore",
-        "projectPath": "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
-        "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeri\\Desktop\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\obj\\",
+        "projectPath": "C:\\Users\\mobyf_000\\Saved Games\\Jason Master\\Github\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\PizzzzaStore.csproj",
+        "packagesPath": "C:\\Users\\mobyf_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mobyf_000\\Saved Games\\Jason Master\\Github\\PizzaStore\\PizzzzaStore\\PizzzzaStore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\leeri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mobyf_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,5 +1,34 @@
 ﻿<div class="row">
-    <div class="col">
-        <a asp-controller="Pizzas" asp-action="Create">Order Pizza!</a>
+    <div class="card-deck">
+        <div class="card">
+            <img src="/media/pizza1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Where a kid can be a kid</h5>
+                <p class="card-text">Remember when Chuck-E-Cheese used to be ShowBiz Pizza?  We do too, and we created our pies to be as delicious as ShowBiz was in the 90s.</p>
+            </div>
+            <div class="card-footer">
+                <a asp-controller="Pizzas" asp-action="Create">Order a Pizza Pie!</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="/media/soda1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">No Wimps Allowed</h5>
+                <p class="card-text">So you want water with your pizza?  Sorry, we don't serve that here.  If you want to eat our pies, you have to wash them down with a milkshake or a large soda.  And no diet cola!! Champs only.</p>
+            </div>
+            <div class="card-footer">
+                <a asp-controller="Pizzas" asp-action="Create">Order more calories!</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="/media/dessert1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Dessert or else</h5>
+                <p class="card-text">We think dessert should be given its own meal plan, honestly.  Rather than be relegated to the post-dinner timeframe, it can replace breakfast, lunch, dinner, or all three.</p>
+            </div>
+            <div class="card-footer">
+                <a asp-controller="Pizzas" asp-action="Create">Order some love handles!</a>
+            </div>
+        </div>
     </div>
 </div>
